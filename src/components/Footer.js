@@ -2,7 +2,14 @@
 const Footer = () => {
   return (
     <div>
-      <h1> Hello World</h1>
+      <ul>
+        <li>
+          <a href="https://www.linkedin.com/in/benjamin-gaither-88732794/">LinkedIn</a>
+        </li>
+        <li>
+          <a href="https://github.com/mattgaither">GitHub</a>
+        </li>
+      </ul>
     </div>
   );
 };

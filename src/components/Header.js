@@ -1,9 +1,12 @@
+import Nav from './Navigation';
+
 
 const Header = () => {
   return (
-    <div>
-      <h1> Hello World</h1>
-    </div>
+    <>
+      <h1>Benjamin Gaither</h1>
+      <Nav />
+    </>
   );
 };
 
